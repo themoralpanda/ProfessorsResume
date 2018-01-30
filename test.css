@@ -1,0 +1,31 @@
+#title{
+  font-size:2em;
+}
+
+#motto{
+  font-size:0.8em;
+}
+
+#email{
+float:right
+
+}
+
+.brdr{
+  border-color: black;
+  border-width: 10px;
+}
+
+table {
+    width: auto;
+}
+table td {
+    float: left;
+    width: 250px;
+    margin: 10px;
+}
+
+#footer{
+  position:relative;
+  font-size:0.9em;
+}

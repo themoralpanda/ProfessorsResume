@@ -1,0 +1,13 @@
+{
+  "name": "ORDER.json",
+  "version": "1.0.0",
+  "description": "Maintains the order in which the components of the resume should be build",
+  "order": [
+    "contact",
+    "summary",
+    "education",
+    "workExperience",
+    "projects"
+  ],
+  "photoURL": ""
+}

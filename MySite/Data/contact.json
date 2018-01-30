@@ -1,0 +1,12 @@
+{
+  "name": "Full Name",
+  "shortName": "Short Name",
+  "motto": "Talk less. Do more",
+  "address": [
+    "line1",
+    "line2"
+  ],
+  "email": "email@provider.com",
+  "phone": "",
+  "socialMedia": ""
+}
